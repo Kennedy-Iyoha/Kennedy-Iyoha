@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Kennedy</h1>
-<h3 align="center">A student interested in 3D Modelling & Animation, Game development.</h3>
+<h3 align="center">A student interested in 3D Modelling & Animation and Game development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennedy-iyoha&label=Profile%20views&color=0e75b6&style=flat" alt="kennedy-iyoha" /> </p>
 
 - 🌱 I’m currently learning **C#**
 
-- 💬 Ask me about **Cpp**
+- 💬 Ask me about **C++**
 
 - 📫 How to reach me <strong><a href="mailto:iyohakennedy401@gmail.com">iyohakennedy401@gmail.com</a></strong>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kennedyiyoha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kennedyiyoha" height="30" width="40" /></a>
-<a href="https://fb.com/kennedyiyoha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kennedyiyoha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kennedy-iyoha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kennedyiyoha" height="30" width="40" /></a>
+<a href="https://facebook.com/kennedy-iyoha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kennedyiyoha" height="30" width="40" /></a>
 <a href="https://instagram.com/kennedyiyoha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kennedyiyoha" height="30" width="40" /></a>
 </p>
 
